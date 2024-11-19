@@ -1,5 +1,5 @@
 # Trabalho: Estruturas De Dados
-Trabalho da matéria de Estruturas de Dados que exercita conceitos de File e Pilha dinâmicas e estáticas.
+Trabalho da matéria de Estruturas de Dados que exercita conceitos de Fila e Pilha dinâmicas e estáticas.
 
 #### Contexto:
 Gerenciamento de filas e guichês para compra de ingressos. As filas (de pessoas) são tratadas com a estrutura de dados Fila, e os guichês como Pilha de ingressos disponíveis.
